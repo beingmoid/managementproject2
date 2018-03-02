@@ -1,0 +1,137 @@
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\salman\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+C:\Users\salman\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+C:\Users\salman\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+C:\Users\salman\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+C:\Users\salman\Desktop\workshop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+\\server1\Students New Storage\1610C1\c#\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\asp.APTECHNK\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Dashboard.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\student.employee.resources
+C:\Users\Nida\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.fee.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Dashboard.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loginform.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\student.employee.resources
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Nida\Desktop\backup\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.startpage.resources
+G:\New folder\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+G:\New folder\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+G:\New folder\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+G:\New folder\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.defaulterfrom.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.deleteform.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\student.employee.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.feessubmission.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Dashboard.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.insertform.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.loginform.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.startpage.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.updateform.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.viewform2.resources
+E:\School menagment\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\badar\Documents\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\badar\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\badar\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\badar\Documents\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+X:\2nd Semister\OOP\PROJECTS WITH DB\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+X:\2nd Semister\OOP\PROJECTS WITH DB\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+X:\2nd Semister\OOP\PROJECTS WITH DB\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+X:\2nd Semister\OOP\PROJECTS WITH DB\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
